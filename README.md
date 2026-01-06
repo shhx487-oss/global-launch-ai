@@ -53,4 +53,3 @@ npm run build
 *   Vite (Build Tool)
 *   Tailwind CSS (Styling)
 *   @google/genai (AI Model SDK)
-"# global-launch-ai" 
